@@ -241,8 +241,8 @@ export const websiteContent = {
           mn: "Алсын хараа"
         },
         content: {
-          en: "To be a trusted advisor and partner, guiding microfinance and micro business operations through innovative solutions and strategic support, strengthening their financial accessibility and sustainable development, while becoming a leading consulting company both nationally and internationally.",
-          mn: "Бичил санхүү, бичил бизнесийн үйл ажиллагааг шинэлэг шийдэл, стратегийн дэмжлэгээр удирдан чиглүүлж, санхүүгийн хүртээмж, тогтвортой хөгжлийг бэхжүүлэхэд дотны зөвлөх, итгэлт түнш нь байж улсдаа болон олон улсад тэргүүлэгч зөвлөх компани болох"
+          en: "To build an inclusive, responsible, and sustainable ecosystem for microfinance and business development.",
+          mn: "Хүртээмжтэй, хариуцлагатай, тогтвортой бичил санхүү, бизнес хөгжлийн экосистемийг бий болгоно."
         }
       },
       mission: {
@@ -251,8 +251,8 @@ export const websiteContent = {
           mn: "Эрхэм зорилго"
         },
         content: {
-          en: "To empower targeted clients at various stages of development through specialized management consulting based on international best practices, effective project implementation, and advanced information technology solutions, fostering growth together.",
-          mn: "Олон улсын сайн туршлагад тулгуурлсан менежментийн мэргэшсэн зөвлөгөө, төслийн үр дүнтэй хэрэгжилт, мэдээллийн технологийн дэвшилтэт шийдлүүдийг санал болгох замаар хөгжлийн бүхий л шатанд зорилтот харилцагчаа чадавхжуулах, хамтдаа хөгжих"
+          en: "We strengthen microfinance institutions and MSMEs through expert advisory, knowledge, strategic support, technology-driven solutions, and international best practices—fostering sustainable growth, innovation, and international collaboration.",
+          mn: "Мэргэшсэн зөвлөх үйлчилгээ, мэдлэг, стратегийн дэмжлэг, технологийн шийдэл, олон улсын сайн туршлагаар дамжуулан бичил санхүүгийн байгууллага болон бичил, жижиг, дунд бизнесүүдийн чадавхыг бэхжүүлж, тогтвортой өсөлт, инноваци, олон улсын хамтын ажиллагааг дэмжинэ."
         }
       },
       values: {
@@ -262,7 +262,7 @@ export const websiteContent = {
         },
         content: {
           en: "Client-centered creative collaboration; Confidentiality; Sustainable development",
-          mn: "Харилцагч төвтэй бүтээлч хамтын ажиллагаа, Нууцлал, Тогтвортой хөгжил"
+          mn: "Харилцагч төвтэй, бүтээлч хамтын ажиллагаа \n Нууцлал, итгэлцэл \n Тогтвортой хөгжил, үр дүн"
         },
         subContent: {
           creativeCollaboration: {

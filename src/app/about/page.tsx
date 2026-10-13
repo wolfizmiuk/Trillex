@@ -40,15 +40,15 @@ export default function About() {
         </section>
 
         {/* Vision */}
-        <section className="mb-16">
-          <h2 className="text-3xl font-bold text-[#00879E] mb-6">{about.sections.vision.title[language]}</h2>
+        <section className="mb-8">
+          <h2 className="text-3xl font-bold text-[#00879E] mb-4">{about.sections.vision.title[language]}</h2>
           <div className="prose max-w-none text-gray-600">
             <p>{about.sections.vision.content[language]}</p>
           </div>
         </section>
 
         {/* Mission */}
-        <section className="mb-16">
+        <section className="mb-6">
           <h2 className="text-3xl font-bold text-[#00879E] mb-6">{about.sections.mission.title[language]}</h2>
           <div className="prose max-w-none text-gray-600">
             <p>{about.sections.mission.content[language]}</p>
